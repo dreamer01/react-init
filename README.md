@@ -3,7 +3,7 @@ A react app setup using webpack and babel.
 
 ## How to run
 - clone the repo `git clone https://github.com/dreamer01/react-init.git`
-- `cd local_directory`
+- `cd react-init`
 - `npm install`
 - `npm start`
 
